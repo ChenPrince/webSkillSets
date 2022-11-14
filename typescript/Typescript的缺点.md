@@ -1,0 +1,8 @@
+TypeScript有以下缺点:
+
+TypeScript需要很长时间来编译代码。
+TypeScript不支持抽象类。
+如果我们在浏览器中运行TypeScript应用程序，需要一个编译步骤将TypeScript转换成JavaScript。
+Web开发人员使用了几十年的JavaScript，而TypeScript不是都是新东西。
+要使用任何第三方库，必须使用定义文件。并不是所有第三方库都有可用的定义文件。
+类型定义文件的质量是一个问题，即如何确保定义是正确的?
